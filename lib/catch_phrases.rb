@@ -6,7 +6,7 @@ end
 
 def toadstool
   puts mario
-  phrase= "Thank You Mario, But Our Princess Is In Another Castle!"
+  phrase= "Thank You Mario! But Our Princess Is In Another Castle!"
   puts phrase
 end
 
